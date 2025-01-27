@@ -17,6 +17,8 @@ To view the workflow for each node, you should right-click on it and then choose
 
 This workflow illustrates the structure and steps involved in building a **linear regression** model.
 
+![Linear regression](imgs/Linear%20Regression.png)
+
 
 
 
