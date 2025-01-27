@@ -11,6 +11,10 @@ This workflow demonstrates the standard preprocessings steps before training a m
 
 ![Data Preprocessing](imgs/Data%20Preprocessing%20Workflow.png)
 
+To view the workflow for each node, you should right-click on it and then choose `Open Component`.
+
+![Node Workflow](imgs/Nodes%20workflow.png)
+
 
 
 
