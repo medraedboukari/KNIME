@@ -1,3 +1,3 @@
 # KNIME
-Using [Orange](https://orangedatamining.com/) for Machine Learning Applications
+Using [Knime](https://www.knime.com/) for Machine Learning Applications
 
