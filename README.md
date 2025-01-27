@@ -8,15 +8,7 @@ KNIME is available for free on all platforms: Linux, Windows, and macOS. You can
 
 ## Sample
 
-![Data Preprocessing]
-
-![Linear Regression]
-
-![Classification]
-
-![Clustering]
-
-![Neural Network]
+![Data Preprocessing](imgs/Main%20Data%20Preprocessing%20Workflow.png)
 
 
 
