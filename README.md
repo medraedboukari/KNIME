@@ -8,7 +8,7 @@ KNIME is available for free on all platforms: Linux, Windows, and macOS. You can
 
 ## Sample
 
-![Data Preprocessing](imgs/Main%20Data%20Preprocessing%20Workflow.png)
+![Data Preprocessing](imgs/Data%20Preprocessing%20Workflow.png)
 
 
 
