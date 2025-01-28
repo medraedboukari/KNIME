@@ -11,6 +11,26 @@ KNIME is available for free on all platforms: Linux, Windows, and macOS. You can
 2. Open KNIME Analytics Platform.
 3. Import the workflow by selecting `File > Import KNIME Workflow`.
 4. Browse to the downloaded `.knwf` file and open it.
+  
+## Plan
+
+1. **Data Preprocessing**
+   - Cleaning the data (handling missing values, outliers).
+   - Feature scaling (normalization, standardization).
+   - Feature selection and extraction.
+   
+2. **Linear Regression**
+   - Building a linear regression model for predicting continuous values.
+   - Training the model using the preprocessed data.
+   - Evaluating model performance (using metrics like RMSE, R²).
+
+3. **Classification**
+   - Implementing classification models to predict categorical outcomes.
+   - Evaluating model performance using accuracy, precision, recall, and F1-score.
+
+4. **Clustering**
+   - Applying unsupervised learning to group similar data points.
+   - Using clustering techniques like K-Means and Hierarchical clustering.
 
 ## Sample
 ### Data Preprocessing
