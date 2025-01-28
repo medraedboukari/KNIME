@@ -25,6 +25,12 @@ To view the workflow for each node, you should right-click on it and then choose
 
 ![Linear regression](imgs/Linear%20Regression.png)
 
+### Classification
+
+![Classification Model](imgs/classification.png)
+
+
+
 
 
 
