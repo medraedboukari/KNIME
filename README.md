@@ -29,6 +29,9 @@ To view the workflow for each node, you should right-click on it and then choose
 
 ![Classification Model](imgs/classification.png)
 
+### Clustering
+
+![Clustering Model](imgs/clustering.png)
 
 
 
