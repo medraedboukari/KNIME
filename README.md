@@ -53,6 +53,12 @@ To view the workflow for each node, you should right-click on it and then choose
 
 ![Clustering Model](imgs/clustering.png)
 
+## Acknowledgment
+
+This project was made possible thanks to the resources and tools provided by the [KNIME website](https://www.knime.com/). KNIME Analytics Platform is an invaluable resource for data science and machine learning workflows, enabling users to create, share, and explore data in a visual and intuitive way.
+
+
+
 
 
 
