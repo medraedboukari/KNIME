@@ -12,9 +12,8 @@ KNIME is available for free on all platforms: Linux, Windows, and macOS. You can
 3. Import the workflow by selecting `File > Import KNIME Workflow`.
 4. Browse to the downloaded `.knwf` file and open it.
 
-
 ## Sample
-This workflow demonstrates the standard preprocessings steps before training a machine learning model.
+### Data Preprocessing
 
 ![Data Preprocessing](imgs/Data%20Preprocessing%20Workflow.png)
 
@@ -22,7 +21,7 @@ To view the workflow for each node, you should right-click on it and then choose
 
 ![Node Workflow](imgs/Nodes%20workflow.png)
 
-This workflow illustrates the structure and steps involved in building a **linear regression** model.
+### Linear Regression
 
 ![Linear regression](imgs/Linear%20Regression.png)
 
